@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\ref\2DArrays.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\bin\Debug\net5.0\2DArrays.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\ref\2DArrays.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\2DArrays\obj\Debug\net5.0\2DArrays.genruntimeconfig.cache

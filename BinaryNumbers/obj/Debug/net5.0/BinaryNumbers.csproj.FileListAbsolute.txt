@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\ref\BinaryNumbers.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\bin\Debug\net5.0\BinaryNumbers.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\ref\BinaryNumbers.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinaryNumbers\obj\Debug\net5.0\BinaryNumbers.genruntimeconfig.cache
