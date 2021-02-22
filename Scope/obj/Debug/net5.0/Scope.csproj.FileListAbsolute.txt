@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\ref\Scope.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\bin\Debug\net5.0\Scope.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\ref\Scope.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Scope\obj\Debug\net5.0\Scope.genruntimeconfig.cache
