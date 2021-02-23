@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\ref\MoreExceptions.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\bin\Debug\net5.0\MoreExceptions.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\ref\MoreExceptions.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\MoreExceptions\obj\Debug\net5.0\MoreExceptions.genruntimeconfig.cache
