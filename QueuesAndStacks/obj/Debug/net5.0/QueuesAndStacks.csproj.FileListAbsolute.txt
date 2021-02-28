@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\ref\QueuesAndStacks.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\bin\Debug\net5.0\QueuesAndStacks.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\ref\QueuesAndStacks.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\QueuesAndStacks\obj\Debug\net5.0\QueuesAndStacks.genruntimeconfig.cache
