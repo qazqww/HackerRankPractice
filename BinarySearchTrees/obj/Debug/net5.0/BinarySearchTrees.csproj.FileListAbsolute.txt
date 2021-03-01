@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\ref\BinarySearchTrees.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\bin\Debug\net5.0\BinarySearchTrees.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\ref\BinarySearchTrees.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\BinarySearchTrees\obj\Debug\net5.0\BinarySearchTrees.genruntimeconfig.cache

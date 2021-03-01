@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
