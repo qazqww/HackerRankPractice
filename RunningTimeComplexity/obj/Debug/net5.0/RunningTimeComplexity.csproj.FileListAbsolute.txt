@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\ref\RunningTimeComplexity.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\bin\Debug\net5.0\RunningTimeComplexity.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\ref\RunningTimeComplexity.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\RunningTimeComplexity\obj\Debug\net5.0\RunningTimeComplexity.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\ref\NestedLogic.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\bin\Debug\net5.0\NestedLogic.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\ref\NestedLogic.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\NestedLogic\obj\Debug\net5.0\NestedLogic.genruntimeconfig.cache
