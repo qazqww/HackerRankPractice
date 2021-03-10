@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\BitwiseAND\\BitwiseAND.csproj": {}
+    "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\30DayChallenge\\BitwiseAND\\BitwiseAND.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\BitwiseAND\\BitwiseAND.csproj": {
+    "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\30DayChallenge\\BitwiseAND\\BitwiseAND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\BitwiseAND\\BitwiseAND.csproj",
+        "projectUniqueName": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\30DayChallenge\\BitwiseAND\\BitwiseAND.csproj",
         "projectName": "BitwiseAND",
-        "projectPath": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\BitwiseAND\\BitwiseAND.csproj",
+        "projectPath": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\30DayChallenge\\BitwiseAND\\BitwiseAND.csproj",
         "packagesPath": "C:\\Users\\qazqw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\BitwiseAND\\obj\\",
+        "outputPath": "C:\\Users\\qazqw\\Documents\\sources\\HackerRankPractice\\30DayChallenge\\BitwiseAND\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
