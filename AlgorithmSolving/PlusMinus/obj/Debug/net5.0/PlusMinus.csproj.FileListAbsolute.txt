@@ -1,0 +1,16 @@
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.exe
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.deps.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.runtimeconfig.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.runtimeconfig.dev.json
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\ref\PlusMinus.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\bin\Debug\net5.0\PlusMinus.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.AssemblyInfo.cs
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\ref\PlusMinus.dll
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.pdb
+C:\Users\qazqw\Documents\sources\HackerRankPractice\AlgorithmSolving\PlusMinus\obj\Debug\net5.0\PlusMinus.genruntimeconfig.cache
